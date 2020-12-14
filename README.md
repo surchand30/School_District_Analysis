@@ -19,11 +19,11 @@ The Student dataset comprised of :
         Reading scores,
         Math scores secured by the student.
         
-### Overview 
+## Overview 
 
 This analysis was performed on 39,170 students belonging to 15 different schools. The student dataset comprises of students from the 9th,10th,11th and 12th grade and the marks scored by these students. This dataset helped analyze the best performing schools in each grade based on scores of students within that school. It also helped calculate the average scores by school and by grade. Analysis of this dataset would help government officials to make updates to already assigned budgets based on the need of the school. This dataset could also help analyze if any one gender outbeat the other gender across schools.
 
-### Results 
+## Results 
 
 As part of the analysis, a small subset of students were removed from the analysis. The 9th Graders from Thomas High School were excluded from the analysis and below are some observations from comparing the results of the full subset vs a slightly smaller subset :
 
@@ -33,8 +33,14 @@ As part of the analysis, a small subset of students were removed from the analys
 
 * Based on the data provided, it appears that either the 9th graders at Thomas High School were either over achievers or the scores of these students were manipulated. Excluding the 9th graders from the analysis caused a steep drop in the pass percentages in the school
 
+* Exclusion of Thomas High school 9th graders had no impact on the Math and Reading scores within other grades of the same school and also from other schools
 
-    
+* No impact to the performace by school type considering less than 1% of the data was excluded from the analysis
+
+* There was no impact on the spending by school size since we only excluded the scores from calculations but the students were still present within the schools dataset. Hence the total school size did not have an impact 
+
+## Summary
+ 
 * The overall Math,Reading,Math and Reading pass percentages across all schools and all the students did not change significantly after excluding the 9th graders from     Thomas High School 
 * The percentage of students from Thomas High School that passed Math dropped by approxiamtely 26% after exluding the 9th graders
 * The percentage of students from Thomas High School that passed Reading dropped by approxiamtely 26% after excluding the 9th graders
