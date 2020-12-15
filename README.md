@@ -46,6 +46,7 @@ As part of the analysis, a small subset of students were removed from the analys
 * The percentage of students from Thomas High School that passed Math dropped by approxiamtely 26% after exluding the 9th graders
 * The percentage of students from Thomas High School that passed Reading dropped by approxiamtely 26% after excluding the 9th graders
 * The percentage of students from Thomas High School that passed both Math and Reading dropped by approxiamtely 35% after excluding the 9th graders
+
   Before Excluding THS 9th Graders
   ![School_Summary with THS 9th Graders](https://github.com/surchand30/School_District_Analysis/blob/main/School_Summary%20with%20THS%209th%20Graders.PNG)
   
